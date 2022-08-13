@@ -16,7 +16,7 @@ Multiclass semantic segmentation using U-Net in TensorFlow 2 / Keras.
 
 ## Introduction
 
-The line of research is motivated by the need to accurately segment 4 regions from images about XRM (tomography) scan of a sandstone cylinder of size about 2 mm diameter. To solve this problem, we will use binary semantic segmentation using U-Net in TensorFlow 2 / Keras.
+The line of research is motivated by the need to accurately segment 4 regions from images about XRM (tomography) scan of a sandstone cylinder of size about 2 mm diameter. To solve this problem, we will use multiclass semantic segmentation using U-Net in TensorFlow 2 / Keras.
 
 It is used U-Net model, which is trained on this <a href="https://drive.google.com/file/d/1HWtBaSa-LTyAMgf2uaz1T9o1sTWDBajU/view" target="_blank">Sandstone Dataset</a>. It is used two tif files that include 256 images of 256 x 256: <a href="https://github.com/javier-marti-isasi/Multiclass-semantic-segmentation-using-U-Net/raw/main/data/images_256_256_256.tif" target="_blank">images_256_256_256.tif</a> and <a href="https://github.com/javier-marti-isasi/Multiclass-semantic-segmentation-using-U-Net/raw/main/data/masks_256_256_256.tif" target="_blank">masks_256_256_256.tif</a>.
 
