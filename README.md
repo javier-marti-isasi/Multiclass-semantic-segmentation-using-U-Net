@@ -36,7 +36,7 @@ Please, follow the instruction in the provided notebook.
 
 ## Results
 
-With just 256 images of 256x256 and 50 epochs of training, it achieves a Mean Intersection over union (IoU) of 0.88 in the unseen test partition.
+With just 256 images of 256x256 and 50 epochs of training, it achieves a Mean Intersection over Union (IoU) of 0.88 in the unseen test partition.
 
 
 ## Predicted segmentation examples
