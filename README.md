@@ -3,7 +3,7 @@ Multiclass semantic segmentation using U-Net in TensorFlow 2 / Keras.
 
 ## Directory Structure
 
-**All the code files and folders follow the following structure in ipynb file.**
+**All the code files and folders follow the following structure in ipynb file:**
 
 ```
 ├── images_256_256_256.tif
